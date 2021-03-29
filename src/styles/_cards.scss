@@ -73,7 +73,8 @@
       top: 70px;
       width: 140px;
       height: 140px;
-      left: 2em; //how can I make this more responsive??
+      display: block;
+      margin: 0 auto;
     }
 
     .v-card {
